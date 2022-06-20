@@ -1,0 +1,17 @@
+# ninja log v5
+2	1396	1655657992497962823	CMakeFiles/OrderBook.dir/Src/MatchingEngine/OrderMatchingEngine.cpp.o	a588333ad1ed8e04
+1	666	1655591220684765833	CMakeFiles/OrderBook.dir/Src/MatchingEngine/LimitOrderBook/Trade.cpp.o	44d166ef30b86629
+2	815	1655657991913967567	CMakeFiles/OrderBook.dir/Src/MatchingEngine/Trade.cpp.o	ebb7068541edf666
+1	727	1655664644597835768	CMakeFiles/OrderBook.dir/Src/MatchingEngine/OrderBook.cpp.o	a002fb91c37612b6
+1	682	1655658436758168213	CMakeFiles/OrderBook.dir/Src/MatchingEngine/OrderTree.cpp.o	75d097007a5223e6
+0	25	1655765211074778022	build.ninja	fe7a9d6df10a786d
+38	125	1655644281213577235	CMakeFiles/OrderBook.dir/Src/MatchingEngine/OutboundMessage.cpp.o	80875e837996bd5
+1	49	1655644281129581770	CMakeFiles/OrderBook.dir/Src/MatchingEngine/OrderReport.cpp.o	6605af97b180a338
+0	419	1655591220436767783	CMakeFiles/OrderBook.dir/Src/MatchingEngine/LimitOrderBook/Order.cpp.o	357ac58822b2eed1
+1	1080	1655657992181965390	CMakeFiles/OrderBook.dir/Src/MatchingEngine/Limit.cpp.o	cd2e396bd1de408c
+1	934	1655591220952763726	CMakeFiles/OrderBook.dir/Src/MatchingEngine/LimitOrderBook/OrderTree.cpp.o	698a0a59e3247524
+1	841	1655657991941967340	CMakeFiles/OrderBook.dir/Src/MatchingEngine/Order.cpp.o	86097a39390bc407
+1	47	1655665682981807780	CMakeFiles/OrderBook.dir/main.cpp.o	3e4a46882da4e895
+1	909	1655591220928763915	CMakeFiles/OrderBook.dir/Src/MatchingEngine/LimitOrderBook/OrderBook.cpp.o	e0ba76958545cd9
+47	141	1655665683077807006	OrderBook	1f9cecf00b3009e5
+1	746	1655591220764765205	CMakeFiles/OrderBook.dir/Src/MatchingEngine/LimitOrderBook/Limit.cpp.o	38a70d0dbfa76005

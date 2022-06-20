@@ -1,0 +1,4 @@
+/home/martin/clion-2021.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/martin/clion-2021.3/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc-11 -DCMAKE_CXX_COMPILER=/usr/bin/g++-11 -G Ninja /home/martin/CLionProjects/OrderBook
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/martin/CLionProjects/OrderBook/cmake-build-debug
